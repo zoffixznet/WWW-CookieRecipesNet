@@ -1,0 +1,43 @@
+WWW-CookieRecipesNet
+
+The module provides means to get a list of recipes from L<http://www.cookie-recipes.net/>
+as well as get random recipes or get recipes by name.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Build.PL
+	./Build
+	./Build test
+	./Build install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc WWW::CookieRecipesNet
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=WWW-CookieRecipesNet
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/WWW-CookieRecipesNet
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/WWW-CookieRecipesNet
+
+    Search CPAN
+        http://search.cpan.org/dist/WWW-CookieRecipesNet
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008 'Zoffix
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
